@@ -11,3 +11,5 @@
 ## The NPM way
 1. `npm install screepsmod-loki-patch` in your mods folder.
 2. Thats it!
+
+NOTE: While this should greatly reduce the chances of corruption, it is not guaranteed, regular backups are recommended
